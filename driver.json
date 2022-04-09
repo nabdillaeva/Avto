@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "idDriver": "dv-1",
+    "name": "Sasha",
+    "bus": ""
+  },
+  {
+    "id": 2,
+    "idDriver": "dv-2",
+    "name": "Petya",
+    "bus": ""
+  },
+  {
+    "id": 3,
+    "idDriver": "dv-3",
+    "name": "Vasya",
+    "bus": ""
+  }
+]
